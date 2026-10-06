@@ -46,17 +46,47 @@ Currently exploring <b>Python • C/C++ • Java • AI/ML • Full-Stack Develo
 
 <td width="50%" valign="top">
 
-### 🌾 KrushiScan AI
+<h3>🌾 KrushiScan AI</h3>
 
-AI-powered agriculture assistant for farmers, focused on crop disease detection, weather intelligence and voice-first guidance in regional languages.
+<p>
+AI-powered agricultural decision-support platform designed for farmers,
+combining computer vision, voice AI and weather intelligence.
+</p>
+
+<p>
+<code>Computer Vision</code>
+<code>Voice AI</code>
+<code>Weather AI</code>
+<code>Marathi</code>
+<code>Hindi</code>
+<code>English</code>
+</p>
+
+<p>
+<b>Status:</b> Prototype / MVP Development
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📊 Smart Mandi
+<h3>🌦️ AI Climate Twin India</h3>
 
-A farmer-focused mandi price advisor that compares market prices, transport costs and expected net returns to support better selling decisions.
+<p>
+Climate-risk prediction platform that combines climate models and public
+datasets to predict rainfall, heatwave and flood risks across India.
+</p>
+
+<p>
+<code>TensorFlow</code>
+<code>FastAPI</code>
+<code>React</code>
+<code>Mapbox</code>
+</p>
+
+<p>
+<b>Status:</b> Deployed Working Prototype
+</p>
 
 </td>
 
@@ -66,53 +96,96 @@ A farmer-focused mandi price advisor that compares market prices, transport cost
 
 <td width="50%" valign="top">
 
-### 🍊 AI Orange Plant Selection
+<h3>💪 RepRight</h3>
 
-A computer-vision concept for helping farmers evaluate and select suitable orange plants using image-based analysis.
+<p>
+Real-time AI exercise form correction platform using pose estimation,
+rep counting and corrective feedback for exercises such as squats,
+push-ups, curls and planks.
+</p>
+
+<p>
+<code>MediaPipe</code>
+<code>TensorFlow</code>
+<code>FastAPI</code>
+<code>React</code>
+</p>
+
+<p>
+<b>Status:</b> Hackathon MVP
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 💻 Portfolio
+<h3>🍊 AI Orange Plant Selection</h3>
 
-My developer portfolio, projects, experiments and learning journey.
+<p>
+Computer-vision concept designed to help farmers evaluate and select
+suitable orange plants through image-based analysis.
+</p>
+
+<p>
+<code>Computer Vision</code>
+<code>AI</code>
+<code>Image Analysis</code>
+</p>
+
+<p>
+<b>Status:</b> Concept / Prototype
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🏠 Rentogo</h3>
+
+<p>
+Rental discovery web application for browsing homes and rooms through
+structured property listings and detailed property pages.
+</p>
+
+<p>
+<code>React.js</code>
+<code>JavaScript</code>
+<code>Node.js</code>
+<code>Express.js</code>
+</p>
+
+<p>
+<b>Status:</b> Web Application
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🏪 Smart Store Management System</h3>
+
+<p>
+Database-driven store management application for organizing products,
+inventory, customers and store information with structured CRUD operations.
+</p>
+
+<p>
+<code>SQL</code>
+<code>Node.js</code>
+<code>HTML5</code>
+<code>CSS3</code>
+<code>JavaScript</code>
+</p>
+
+<p>
+<b>Status:</b> Database Project
+</p>
 
 </td>
 
 </tr>
 </table>
-
-<br>
-
-<h3><code>sanket@github ~ $ tech-stack</code></h3>
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,react,nodejs,git,github,vscode,firebase,gcp&perline=7" alt="Technology stack"/>
-</p>
-
-<br>
-
-<h3><code>sanket@github ~ $ connect</code></h3>
-
-<p>
-
-<a href="https://github.com/sanketlinganwar-glitch">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sanket-linganwar-61a924340">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://sanketlinganwar-glitch.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
-
-</p>
-
-<br>
-
-<sub>⚡ Building. Learning. Shipping. Repeating.</sub>
-
-</div>
