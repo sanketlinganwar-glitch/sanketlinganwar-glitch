@@ -16,13 +16,92 @@
 
 <td valign="top">
 <img src="./info-card.svg" width="490" alt="Sanket profile information"/>
+<br>
+
+<h3><code>sanket@github ~ $ currently-building</code></h3>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🌾 KrushiScan AI</h3>
+
+<p>
+Building an AI-powered agricultural decision-support platform
+for farmers with crop-health detection, voice AI and weather intelligence.
+</p>
+
+<p>
+<code>AI</code>
+<code>Computer Vision</code>
+<code>Voice AI</code>
+<code>Weather Intelligence</code>
+</p>
+
 </td>
+
+<td width="50%" valign="top">
+
+<h3>🍊 AI Orange Plant Selection</h3>
+
+<p>
+Exploring computer vision techniques to help evaluate and
+select suitable orange plants through image-based analysis.
+</p>
+
+<p>
+<code>Computer Vision</code>
+<code>AI</code>
+<code>Image Analysis</code>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🌦️ AI Climate Twin India</h3>
+
+<p>
+Developing climate-risk prediction capabilities for rainfall,
+heatwave and flood analysis using AI and geospatial technologies.
+</p>
+
+<p>
+<code>TensorFlow</code>
+<code>FastAPI</code>
+<code>React</code>
+<code>Mapbox</code>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🚀 Exploring</h3>
+
+<p>
+Continuously learning and experimenting with technologies
+that help me build practical real-world solutions.
+</p>
+
+<p>
+<code>AI/ML</code>
+<code>Full-Stack</code>
+<code>Cloud</code>
+<code>Computer Vision</code>
+</p>
+
+</td>
+
 </tr>
 </table>
 
 <br>
-
-<h3><code>sanket@github ~ $ cat about.txt</code></h3>
 
 <p>
 <b>Computer Engineering Student • AI Explorer • Full-Stack Creator • Problem Solver</b>
