@@ -1,0 +1,189 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="350" viewBox="0 0 490 350">
+
+<rect x="1" y="1" width="488" height="348" rx="14"
+      fill="#0d1117" stroke="#30363d"/>
+
+<circle cx="22" cy="22" r="5" fill="#ff5f56"/>
+<circle cx="40" cy="22" r="5" fill="#ffbd2e"/>
+<circle cx="58" cy="22" r="5" fill="#27c93f"/>
+
+<text x="80" y="27"
+      fill="#8b949e"
+      font-family="monospace"
+      font-size="13">
+  sanket@github ~
+</text>
+
+<text x="24" y="68"
+      fill="#58a6ff"
+      font-family="monospace"
+      font-size="18"
+      font-weight="700">
+  Sanket Linganwar
+</text>
+
+<line x1="24" y1="82" x2="466" y2="82"
+      stroke="#30363d"/>
+
+<g opacity="0">
+  <animate attributeName="opacity"
+           from="0" to="1"
+           dur="0.4s"
+           begin="0.2s"
+           fill="freeze"/>
+
+  <text x="24" y="115"
+        fill="#7ee787"
+        font-family="monospace"
+        font-size="13">
+    Role
+  </text>
+
+  <text x="118" y="115"
+        fill="#c9d1d9"
+        font-family="monospace"
+        font-size="13">
+    : Computer Engineering Student
+  </text>
+</g>
+
+<g opacity="0">
+  <animate attributeName="opacity"
+           from="0" to="1"
+           dur="0.4s"
+           begin="0.5s"
+           fill="freeze"/>
+
+  <text x="24" y="146"
+        fill="#7ee787"
+        font-family="monospace"
+        font-size="13">
+    Focus
+  </text>
+
+  <text x="118" y="146"
+        fill="#c9d1d9"
+        font-family="monospace"
+        font-size="13">
+    : AI • Full-Stack • Problem Solving
+  </text>
+</g>
+
+<g opacity="0">
+  <animate attributeName="opacity"
+           from="0" to="1"
+           dur="0.4s"
+           begin="0.8s"
+           fill="freeze"/>
+
+  <text x="24" y="177"
+        fill="#7ee787"
+        font-family="monospace"
+        font-size="13">
+    Languages
+  </text>
+
+  <text x="118" y="177"
+        fill="#c9d1d9"
+        font-family="monospace"
+        font-size="13">
+    : Python • C • C++ • Java
+  </text>
+</g>
+
+<g opacity="0">
+  <animate attributeName="opacity"
+           from="0" to="1"
+           dur="0.4s"
+           begin="1.1s"
+           fill="freeze"/>
+
+  <text x="24" y="208"
+        fill="#7ee787"
+        font-family="monospace"
+        font-size="13">
+    Building
+  </text>
+
+  <text x="118" y="208"
+        fill="#c9d1d9"
+        font-family="monospace"
+        font-size="13">
+    : Smart Mandi • KrushiScan AI
+  </text>
+</g>
+
+<g opacity="0">
+  <animate attributeName="opacity"
+           from="0" to="1"
+           dur="0.4s"
+           begin="1.4s"
+           fill="freeze"/>
+
+  <text x="24" y="239"
+        fill="#7ee787"
+        font-family="monospace"
+        font-size="13">
+    Exploring
+  </text>
+
+  <text x="118" y="239"
+        fill="#c9d1d9"
+        font-family="monospace"
+        font-size="13">
+    : AI/ML • Cloud • Web Development
+  </text>
+</g>
+
+<g opacity="0">
+  <animate attributeName="opacity"
+           from="0" to="1"
+           dur="0.4s"
+           begin="1.7s"
+           fill="freeze"/>
+
+  <text x="24" y="270"
+        fill="#7ee787"
+        font-family="monospace"
+        font-size="13">
+    Location
+  </text>
+
+  <text x="118" y="270"
+        fill="#c9d1d9"
+        font-family="monospace"
+        font-size="13">
+    : Maharashtra, India
+  </text>
+</g>
+
+<g opacity="0">
+  <animate attributeName="opacity"
+           from="0" to="1"
+           dur="0.4s"
+           begin="2.0s"
+           fill="freeze"/>
+
+  <text x="24" y="301"
+        fill="#7ee787"
+        font-family="monospace"
+        font-size="13">
+    Goal
+  </text>
+
+  <text x="118" y="301"
+        fill="#c9d1d9"
+        font-family="monospace"
+        font-size="13">
+    : Build useful technology
+  </text>
+</g>
+
+<text x="24" y="333"
+      fill="#8b949e"
+      font-family="monospace"
+      font-size="11">
+  status: learning • building • shipping
+</text>
+
+</svg>
