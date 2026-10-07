@@ -117,7 +117,27 @@ Currently exploring <b>Python • C/C++ • Java • AI/ML • Full-Stack Develo
 </p>
 
 <br>
+<br>
 
+<h3><code>sanket@github ~ $ ./github-stats.sh</code></h3>
+
+<p align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=sanketlinganwar-glitch&show_icons=true&theme=github_dark&hide_border=true&count_private=false"
+  height="170"
+  alt="Sanket's GitHub Stats"
+/>
+
+<img
+  src="https://streak-stats.demolab.com/?user=sanketlinganwar-glitch&theme=github-dark-blue&hide_border=true"
+  height="170"
+  alt="Sanket's GitHub Streak"
+/>
+
+</p>
+
+<br>
 <h3><code>sanket@github ~ $ ./projects.sh</code></h3>
 
 <table>
